@@ -1,0 +1,10 @@
+# Default ignored files
+/out/
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\Marek\OneDrive\Java_inne\WhereIPutItConsole\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+.idea/dataSources/
